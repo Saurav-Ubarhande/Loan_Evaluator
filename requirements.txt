@@ -1,4 +1,7 @@
 streamlit
+pdfplumber
 pandas
 numpy
 matplotlib
+seaborn
+scikit-learn
